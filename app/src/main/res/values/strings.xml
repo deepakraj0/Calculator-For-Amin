@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Amin Calculator</string>
+    <string name="enter_the_value_of_kadi_Below">Enter The value of Kadi Below</string>
+    <string name="convert">Convert</string>
+    <string name="enter_kadi_value">Enter Kadi Value</string>
+    <string name="todo">TODO</string>
+</resources>
